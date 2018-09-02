@@ -12,6 +12,7 @@
         <module>configserver</module>
         <module>configclient</module>
         <module>eurekaserver</module>
+        <module>eurekaclient</module>
     </modules>
 
     <parent>
