@@ -13,6 +13,7 @@
         <module>configclient</module>
         <module>eurekaserver</module>
         <module>eurekaclient</module>
+        <module>applicationgateway</module>
     </modules>
 
     <parent>

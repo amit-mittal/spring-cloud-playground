@@ -5,3 +5,5 @@ Explore Spring Cloud
 * Ribbon: Client side load balancing
 * Feign: Declarative REST client
 * Hystrix: Circuit Breaker and define fallback
+* Cloud Bus: Message Broker Service
+* Zuul: Router and Load Balancer
